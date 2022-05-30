@@ -22,8 +22,8 @@ social:
       header: false
     link: https://scholar.google.com/citations?user=90xixkAAAAAJ&hl=en&oi=ao
     icon_pack: ai
-    icon: Brand
-    label: Google Scholar
+    icon: google-scholar
+    label: ""
 organizations:
   - name: University of North Carolina at Charlotte
     url: https://www.charlotte.edu
