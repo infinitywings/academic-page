@@ -1,6 +1,6 @@
 ---
 role: Assistant Professor
-avatar_filename: fu_photo.jpeg
+avatar_filename: avatar.jpeg
 bio: "My research interests are in the area of security of the Internet of
   Things and Artificial Intelligence (AI) /Machine Learning (ML). "
 interests:
