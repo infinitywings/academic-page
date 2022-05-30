@@ -14,10 +14,10 @@ social:
     link: https://twitter.com/GeorgeCushen
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/infinitywings
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/chenglongfu
   - display:
       header: false
     link: https://scholar.google.com/citations?user=90xixkAAAAAJ&hl=en&oi=ao
@@ -29,19 +29,16 @@ organizations:
     url: https://www.charlotte.edu
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer and Network Security
+      institution: Temple University
+      year: 2021
+    - course: BSc in Information Security
+      institution: University of Science and Technology of China
+      year: 2015
 superuser: true
 highlight_name: true
 title: Chenglong Fu
-email: ""
+email: chenglong.fu@uncc.edu
 ---
 Chenglong Fu is an assistant professor in the Department of Software and Information Systems at the University of North Carolina at Charlotte. His research interests are mainly about the security and privacy of the Internet of Things and Artificial Intelligence. His work includes semantics-aware security defense solutions, IoT message protocol exploitation, and audio adversarial example detection.
 
