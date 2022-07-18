@@ -5,7 +5,7 @@ bio: "My research interests are in the area of security of the Internet of
   Things and Artificial Intelligence (AI) /Machine Learning (ML). "
 interests:
   - Internet of Things (IoT) security
-  - Artificial Intelligence (AI) and Machine Learning (ML) security
+  - Artificial Intelligence (AI) security
 social:
   - icon: envelope
     icon_pack: fas
