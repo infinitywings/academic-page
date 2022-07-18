@@ -4,7 +4,8 @@ avatar_filename: avatar.jpeg
 bio: "My research interests are in the area of security of the Internet of
   Things and Artificial Intelligence (AI) /Machine Learning (ML). "
 interests:
-  - InternetofThings
+  - Internet of Things (IoT) security
+  - Artificial Intelligence (AI) and Machine Learning (ML) security
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,6 +41,6 @@ highlight_name: true
 title: Chenglong Fu
 email: chenglong.fu@uncc.edu
 ---
-Chenglong Fu is an assistant professor in the Department of Software and Information Systems at the University of North Carolina at Charlotte. His research interests are mainly about the security and privacy of the Internet of Things and Artificial Intelligence. His work includes semantics-aware security defense solutions, IoT message protocol exploitation, and audio adversarial example detection.
+I am an Assistant Professor in the Department of Software and Information Systems at the University of North Carolina at Charlotte. I obtained my Ph.D. degree from the Department of Computer and Information Sciences at Temple University, under the supervision of Prof. Xiaojiang Du. Prior to that, I obtained my bachelor's degree in Information Security from the University of Science and Technology of China. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
