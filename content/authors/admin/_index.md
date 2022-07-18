@@ -30,9 +30,9 @@ organizations:
     url: https://www.charlotte.edu
 education:
   courses:
-    - course: PhD in Computer and Information Science
+    - course: PhD in Computer Science
       institution: Temple University
-      year: 2020
+      year: 2022
     - course: BSc in Information Security
       institution: University of Science and Technology of China
       year: 2015
